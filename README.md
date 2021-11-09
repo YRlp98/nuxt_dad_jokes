@@ -1,5 +1,11 @@
 # dad_jokes
 
+## Screenshots
+
+![Jokes page](https://github.com/YRlp98/nuxt_dad_jokes/blob/master/assets/images/ss1.png)
+![Joke page](https://github.com/YRlp98/nuxt_dad_jokes/blob/master/assets/images/ss2.png)
+
+
 ## Build Setup
 
 ```bash
